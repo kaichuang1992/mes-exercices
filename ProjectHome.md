@@ -1,0 +1,1 @@
+Projet d'exercices pour l'utilisation d'un jdbc et du moteur de recherche elasticsearch
